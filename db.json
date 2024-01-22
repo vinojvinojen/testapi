@@ -16,19 +16,7 @@
             "NetGatewayIP": null,
             "Repeaters": [],
             "Locks": [
-                {
-                    "LockId": "298d38ee",
-                    "GatewayMACAddress": "00204AF8CD66",
-                    "LockAssigned": 1,
-                    "LockAddress": 1,
-                    "RawRssi": 70.5,
-                    "RawReceivedRssi": 69.5,
-                    "LockType": 128,
-                    "LockStatus": 0,
-                    "LockRFAddress": 231,
-                    "FirmwareMajor": 4,
-                    "FirmwareMinor": 42
-                }
+                
             ]
         },
         {
