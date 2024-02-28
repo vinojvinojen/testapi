@@ -16,12 +16,12 @@
             "NetGatewayIP": null,
             "Repeaters": [
                 {
-                    "RepeatedId": "lock1",
+                    "RepeatedId": "1",
                     "GatewayMACAddress": "00204AFA887F",
               
                 },
                 {
-                    "RepeatedId": "lock1",
+                    "RepeatedId": "3",
                     "GatewayMACAddress": "00204AFA887F",
               
                 }
