@@ -17,12 +17,12 @@
             "Repeaters": [
                 {
                     "RepeatedId": "1",
-                    "GatewayMACAddress": "00204AFA887F",
+                    "GatewayMACAddress": "00204AFA887F"
               
                 },
                 {
                     "RepeatedId": "3",
-                    "GatewayMACAddress": "00204AFA887F",
+                    "GatewayMACAddress": "00204AFA887F"
               
                 }
             ],
