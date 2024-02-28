@@ -15,16 +15,7 @@
             "SubnetMask": null,
             "NetGatewayIP": null,
             "Repeaters": [
-                {
-                    "RepeatedId": "1",
-                    "GatewayMACAddress": "00204AFA887F"
-              
-                },
-                {
-                    "RepeatedId": "3",
-                    "GatewayMACAddress": "00204AFA887F"
-              
-                }
+                
             ],
             "Locks": [
                 
@@ -44,7 +35,18 @@
             "DHCPname": null,
             "SubnetMask": null,
             "NetGatewayIP": null,
-            "Repeaters": [],
+            "Repeaters": [
+                {
+                    "RepeatedId": "1",
+                    "GatewayMACAddress": "00204AFA887F"
+              
+                },
+                {
+                    "RepeatedId": "3",
+                    "GatewayMACAddress": "00204AFA887F"
+              
+                }
+            ],
             "Locks": [
                 {
                     "LockId": "lock1",
